@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello Mum!
+Something new.
 Use the left arrow to go back!
 
